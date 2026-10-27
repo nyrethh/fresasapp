@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Resumen"},{"path":"/login","title":"Acceso"},{"path":"/dashboard","title":"Resumen del negocio"},{"path":"/insumos","title":"Insumos"},{"path":"/ventas","title":"Ventas"},{"path":"/gastos","title":"Gastos"},{"path":"/productos","title":"Productos"}]}
